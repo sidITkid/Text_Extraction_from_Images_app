@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Projecttrial</string>
+    <string name="text_extraction_n_from_images">TEXT EXTRACTION   FROM IMAGES</string>
+    <string name="text_extraction_n_n_t_from_images">TEXT EXTRACTION     \t FROM IMAGES</string>
+</resources>
